@@ -1,0 +1,14 @@
+
+
+*.py
+*.xml
+*.h
+*.iml
+*.bat
+*.exe
+*.enc
+*.json
+Lib
+
+!theatrebot.py
+!amazon-ses.py
